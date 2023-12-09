@@ -3,12 +3,14 @@
 
 Este projeto é o material desenvolvido pelo Aluno Leonardo Arouca , da disciplina **Desenvolvimento Front-end Avançado** 
 
-Basicamente a aplicação cadastra em um arquivo store.json os inputs informados pelos usuárioas visando simular a operação do sistema.
-A aplicação consiste em três páginas , Home , Cadastro e consulta.
+Basicamente a aplicação cadastra e exclui dentro de um arquivo store.json. 
+Os inputs informados pelos usuários são salvos no arquivo store.json, visando simular a operação do sistema.
+A aplicação consiste em três páginas , Home , Cadastro e consulta(lista de crises e exclusão de crises).
 Home - tela inicia que possui um atalho/link para tela de consulta.
 Cadastro - tela de adição de informação no arquivo json , após cadastro ele direciona a aplicação para tela de consulta para visualizar a inclusão ocorrida.
-Consulta - tela de exibição das informações inseridas e que foram salvas no arquivo json. Possiu a função editar e excluir
+Consulta - tela de exibição das informações inseridas e que foram salvas no arquivo json. Página também possiu a função excluir.
 
+**FIGMA**
 Segue link do Figma: https://www.figma.com/file/2am0y7uzypGprgjhXVNhqi/MVP-FRONT-END?type=design&t=khYmrijEfDKWvCvS-6
 
 
