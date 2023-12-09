@@ -1,0 +1,22 @@
+{
+  "crises": [
+    {
+      "data": "30/12/1986",
+      "titulo": "Demissão em massa",
+      "prazo": "50",
+      "problema": "Processos trabalhistas",
+      "cad": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "data": "10/12/2023",
+      "titulo": "Briga na confraternização",
+      "prazo": "1",
+      "problema": "Colaboradores brigaram",
+      "cad": 0,
+      "services": [],
+      "id": 7
+    }
+  ]
+}
